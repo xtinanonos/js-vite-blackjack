@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from "vite";
 
 export default defineConfig({
-  publicDir: 'public', // Asegúrate de que esta ruta sea correcta
+    base: '/js-vite-blackjack/'
 });
